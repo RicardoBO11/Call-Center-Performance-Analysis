@@ -1,96 +1,119 @@
 # Call Center Performance Analysis
 
-## Project Overview:
+## Project Overview
 
-This project focuses on analyzing call center performance to identify inefficiencies, reduce customer wait times, and improve overall operational efficiency.
+This project analyzes call center performance to identify operational inefficiencies, reduce customer wait times, and improve service quality.
 
-Using data analysis techniques, this project uncovers key performance issues affecting operators and provides actionable business recommendations.
-
----
-
-## Tools & Technologies:
-
-- Python (Pandas, NumPy)
-- SQL
-- Data Cleaning & Data Analysis
+The goal is to understand how internal processes impact both operator performance and customer experience, and to provide data-driven recommendations for improvement.
 
 ---
 
-## Key Objectives:
+## Tools & Technologies
 
-- Identify operators with low performance
-- Analyze call wait times
-- Detect operational inefficiencies
-- Provide data-driven business recommendations
-
----
-
-## Key Findings:
-
-- 795 operators have average wait times greater than 90 seconds
-- Significant inefficiencies exist in call handling processes
-- Potential bottlenecks are affecting overall performance and customer experience
+- Python (Pandas, NumPy)  
+- SQL  
+- Data Cleaning & Data Analysis  
 
 ---
 
-## Business Recommendations:
+## Key Objectives
 
-### 1. Evaluate Operational Processes
-
-A high number of operators with long wait times suggests inefficiencies in internal workflows.
-
-**Recommendation:**
-- Review call handling processes
-- Identify unnecessary steps
-- Simplify complex procedures
-
-**Business Impact:**
-- Reduced call duration  
-- Increased service capacity  
-- Lower customer wait times  
+- Identify underperforming operators  
+- Analyze call wait times and service delays  
+- Detect operational bottlenecks and inefficiencies  
+- Provide actionable, data-driven business recommendations  
 
 ---
 
-### 2. Improve Technological Infrastructure
+## Key Findings
 
-Long wait times may be caused by slow or inefficient systems such as CRM tools or call management platforms.
+### 1. High number of delayed interactions
 
-**Recommendation:**
-- Evaluate system performance
-- Optimize or upgrade slow tools
-
-**Business Impact:**
-- Improved operational efficiency  
-- Reduced frustration for operators and customers  
-- Increased team productivity  
+A total of **795 operators** show average wait times greater than **90 seconds**, indicating significant operational inefficiencies.
 
 ---
 
-### 3. Identify and Eliminate Bottlenecks
+### 2. Process inefficiencies are impacting performance
 
-The presence of 795 operators with high wait times indicates critical bottlenecks.
+The distribution of wait times suggests inconsistencies in call handling processes across the organization.
 
-**Recommendation:**
-- Map workflows to detect congestion points  
+---
+
+### 3. Bottlenecks affect customer experience
+
+Operational delays are likely contributing to reduced service quality and slower response times.
+
+---
+
+## Business Recommendations
+
+### 1. Optimize operational workflows
+
+The high number of operators with long wait times suggests inefficiencies in internal processes.
+
+**Actions:**
+- Review current call handling workflows  
 - Remove unnecessary steps  
-- Optimize limiting processes  
+- Simplify complex procedures  
 
-**Business Impact:**
-- Elimination of operational bottlenecks  
-- Improved service flow  
-- Faster response times  
+**Expected impact:**
+- Reduced call handling time  
+- Improved service capacity  
+- Faster response to customers  
 
 ---
 
+### 2. Improve technological infrastructure
+
+System limitations may be contributing to delays in call handling.
+
+**Actions:**
+- Evaluate CRM and call management systems  
+- Identify performance issues in existing tools  
+- Upgrade or optimize slow systems  
+
+**Expected impact:**
+- Higher operational efficiency  
+- Improved user experience for operators  
+- Increased productivity  
+
+---
+
+### 3. Identify and remove bottlenecks
+
+The concentration of high wait times suggests critical workflow bottlenecks.
+
+**Actions:**
+- Map end-to-end processes  
+- Identify congestion points  
+- Remove unnecessary dependencies  
+
+**Expected impact:**
+- Smoother operational flow  
+- Reduced waiting times  
+- Improved service consistency  
+
+---
 
 ## Business Impact
 
-This project helps organizations:
+This analysis provides insights that help organizations:
 
 - Improve customer experience  
 - Optimize internal operations  
 - Increase efficiency and productivity  
-- Make data-driven decisions  
+- Support data-driven decision making  
 
 ---
 
+## Conclusion
+
+The results show that operational inefficiencies and workflow bottlenecks are key drivers of performance issues in the call center.
+
+Addressing these areas can significantly improve both operator efficiency and customer satisfaction.
+
+---
+
+## Author
+
+This project is part of my journey to become a Data Analyst, focused on solving real business problems through data analysis and actionable insights.
